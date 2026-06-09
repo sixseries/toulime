@@ -43,7 +43,7 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 
 | Platform | Link/Contact |
 | :--- | :--- |
-| **Discord Contact** | `xzgu` |
+| **Discord Contact** | `hatemiles` |
 | **Email** | `hi@fourmiles.xyz` |
 
 </div>
