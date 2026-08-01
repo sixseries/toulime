@@ -32,7 +32,7 @@ I'm a passionate **Software Engineer** from the United States who loves to recre
 ### **Discord Apps**
 You'll find me building apps around the popular messaging platform **[Discord](https://discord.com)**. I've successfully built a **small** business around these project(s):
 
-* **Nova**: A discord bot which uses PIL to recolor pixels in a discord emoji.
+* **Nova**: A Discord bot which uses PIL to recolor pixels in a discord emoji.
 
 </div>
 <div align="center">
@@ -43,7 +43,7 @@ You'll find me building apps around the popular messaging platform **[Discord](h
 
 | Platform | Link/Contact |
 | :--- | :--- |
-| **Discord Contact** | `hatemiles` |
+| **Discord Contact** | `wantmiles` |
 | **Email** | `hi@fourmiles.xyz` |
 
 </div>
